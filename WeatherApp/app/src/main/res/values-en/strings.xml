@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="edit_text">Enter city name</string>
+    <string name="action_notif">Notification</string>
+    <string name="action_dialog">Dialog</string>
+    <string name="action_toast">Toast</string>
+    <string name="title">Notification</string>
+    <string name="msg">New message</string>
+    <string name="dialog">Dialog</string>
+    <string name="ok">OK</string>
+</resources>
